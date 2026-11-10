@@ -41,7 +41,7 @@
 
 ## 🎓 Education & Certifications
 
-I study information technology at **SPŠEaG V Úžlabině**, specializing in cyber security. The school focuses mainly on network management and configuration of Cisco devices.
+I study information technology at electrical engineering high school, specializing in cyber security. The school focuses mainly on network management and configuration of Cisco devices.
 
 **Certifications:**
 
