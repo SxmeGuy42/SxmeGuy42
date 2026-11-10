@@ -1,46 +1,76 @@
-## Welcome to my GitHub profile 👋
+# 👋 Welcome to my GitHub profile
 
-**Skills:**
-*Networking*
+## 🛠️ Skills
+
+### Networking
 - Cisco device configuration
-- Mikrotik device configuration
-*Scripting*
+- MikroTik device configuration
+
+### Scripting & Programming
 - Python
 - HTML
-- C++ (Basics)
-- C# (Basics)
-*Microsoft*
+- Unreal Engine 5 (Blueprint nodes)
+- C++ (basics)
+- C# (basics)
+- SQL (basics)
+- VB (basics)
+
+### Microsoft
 - Azure
 - Office 365
-- Windows server
-- Windows user distributinons
-*Linux*
+- Windows Server
+- Windows client distributions
+
+### Linux
 - Linux server
-- Linux user distributions
-*Cyber security*
+- Linux desktop distributions
+
+### Cyber Security
 - Security hardening
-*Game development*
+- Cyber SecOps (beginner)
+
+### Game Development
 - Unreal Engine 5
 - Blender
-*Other*
+
+### Other
 - Website development
+- SQL database management
+
+---
+
+## 🎓 Education & Certifications
+
+I study information technology at **SPŠEaG V Úžlabině**, specializing in cyber security. The school focuses mainly on network management and configuration of Cisco devices.
 
 **Certifications:**
-- CISCO: SRWE, ITN, ITE
-- B2 First certificate (C1 level)
-- Currently working on Linux NDG
 
+- Cisco: SRWE, ITN, ITE
+- Cambridge B2 First (C1 level result)
+- Linux NDG (in progress)
 
-**What do I study?**
-Currently, I study information technology at SPŠEaG V Úžlabině, with a specialization in cyber security. The school mainly focuses on network management and configuration of Cisco device configuration. During my studies, I have earned multiple certifications:
-*- CISCO: SRWE, ITN, ITE*
-*- B2 First certificate (C1 level)*
-*- Currently working on Linux NDG*
+---
 
-**What are my professional interests?**
-Aside from networking and network management — from applications (e.g., Office 365...) and operating systems (user and server distributions, etc.) to large-scale networks (Cisco, MikroTik)... — I also enjoy writing Python scripts on Linux, developing websites, and performing security hardening.
+## 💼 Professional Interests
 
-Lately, I've become very interested in agentic AI solutions. As part of a long-term school project, I developed a GUI application connected to Kiro CLI agent that is optimized and configured to help enforce code security at low cost with high reliability.
+Besides networking and network management, from applications (e.g. Office 365) and operating systems (client and server) to large-scale networks (Cisco, MikroTik), I enjoy:
 
-**What are my leisure time interests?**
-For a while, I have been working on my own survival story game. I am trying to make everything my self (code, 3D models, mechanics). The game consists of many mechanics including: Inventory and Crafting system, Building system, Health system, Creature AI, Water system, Vehicle system and much more.
+- Writing Python scripts on Linux
+- Developing websites
+- Performing security hardening
+
+Lately I have become very interested in **agentic AI**. As part of a long-term school project, I developed a GUI application connected to a Kiro CLI agent. It is configured to help enforce code security at low cost and with high reliability.
+
+---
+
+## 🎮 Leisure Projects
+
+I am working on my own survival story game, and I try to make everything myself: code, 3D models and mechanics. Main features:
+
+- Inventory and crafting system
+- Building system
+- Health system
+- Creature AI
+- Water system
+- Vehicle system
+- ...and much more
