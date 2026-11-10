@@ -1,23 +1,28 @@
 ## Welcome to my GitHub profile 👋
 
 **Skills:**
-_Networking_
+*Networking*
 - Cisco device configuration
 - Mikrotik device configuration
-_Microsoft_
+*Scripting*
+- Python
+- HTML
+- C++ (Basics)
+- C# (Basics)
+*Microsoft*
 - Azure
 - Office 365
 - Windows server
 - Windows user distributinons
-_Linux_
+*Linux*
 - Linux server
 - Linux user distributions
-_Cyber security_
+*Cyber security*
 - Security hardening
-_Game development_
+*Game development*
 - Unreal Engine 5
 - Blender
-_Other_
+*Other*
 - Website development
 
 **Certifications:**
