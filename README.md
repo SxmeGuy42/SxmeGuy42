@@ -27,7 +27,7 @@
 
 ### Cyber Security
 - Security hardening
-- Cyber SecOps (beginner)
+- Cyber SecOps (junior)
 
 ### Game Development
 - Unreal Engine 5
@@ -60,6 +60,7 @@ Besides networking and network management, from applications (e.g. Office 365) a
 - Writing Python scripts on Linux
 - Developing websites
 - Performing security hardening
+- Pico CTF and Hack This Box challenges
 
 Lately I have become very interested in **agentic AI**. As part of a long-term school project, I developed a GUI application connected to a Kiro CLI agent. It is configured to help enforce code security at low cost and with high reliability.
 
