@@ -43,6 +43,8 @@
 
 I study information technology at electrical engineering high school, specializing in cyber security. The school focuses mainly on network management and configuration of Cisco devices.
 
+During my internship at Czech Radio Communications (CRA), I performed software maintenance on network devices. I also visited several of their datacenters, including those at Strahov and the Žižkov Tower.
+
 **Certifications:**
 
 - Cisco: SRWE, ITN, ITE
@@ -60,6 +62,11 @@ Besides networking and network management, from applications (e.g. Office 365) a
 - Performing security hardening
 
 Lately I have become very interested in **agentic AI**. As part of a long-term school project, I developed a GUI application connected to a Kiro CLI agent. It is configured to help enforce code security at low cost and with high reliability.
+
+To expand my knowledge, I have attended several professional conferences:
+- AWS Cloud Day Prague
+- AWS Multi-Agent AI Workshop
+- WEDOS Services Workshop and oil-cooled datacenter tour
 
 ---
 
